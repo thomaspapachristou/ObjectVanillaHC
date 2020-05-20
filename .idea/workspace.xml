@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6e5cbb5-3c9b-441d-97a4-3b0709d4f6fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1avkDo1qxiNhnjVcrnuZZiFJGyj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e5cbb5-3c9b-441d-97a4-3b0709d4f6fe" name="Default Changelist" comment="" />
+      <created>1587623343233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587623343233</updated>
+      <workItem from="1587623360402" duration="12387000" />
+      <workItem from="1587797367426" duration="15189000" />
+      <workItem from="1587898526227" duration="12435000" />
+      <workItem from="1587987266516" duration="1808000" />
+      <workItem from="1587991823042" duration="4265000" />
+      <workItem from="1587998656637" duration="55000" />
+      <workItem from="1587999074511" duration="17000" />
+      <workItem from="1587999111940" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="764" y="410" key="NewPhpFileDialog" timestamp="1587995108207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="410" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587995108207" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1587999226297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587999226297" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587626502923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1587626502923" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1587999076650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587999076650" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587995157097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587995157097" />
+  </component>
+</project>
